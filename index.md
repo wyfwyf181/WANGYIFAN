@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to Yifan Wang's Pages
 
-You can use the [editor on GitHub](https://github.com/wyfwyf181/wyf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+王亦凡  
+学生 现学习于南京理工大学 设计艺术与传媒学院 工业设计专业  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人简介 PERSONAL PROFILES
 
-### Markdown
+本人的个性中，活泼开朗与严肃并存，在生活中乐于与人交流，有着风趣幽默的一面，学习工作中也可以拿出严谨认真的一面，全身心投入到工作中去
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 获奖情况 AWARDS
 
-# Header 1
-## Header 2
-### Header 3
+国家级 • FTC机器人世界锦标赛中国区 • 三等奖 
+国家级 • FTC机器人世界锦标赛中国区 • PTC设计奖
+省级 • 北京市机器人智能大赛FTC机器人工程挑战赛• 冠军
+省级 • 2019年国际地球科学奥林匹克竞赛• 二等奖
+省级 • 北京市校园影视评比 • 三等奖
 
-- Bulleted
-- List
+### 教育背景 EDUCATION BACKGROUND
 
-1. Numbered
-2. List
+小学 • 北京市中关村第一小学
+初中 • 人大附中西山学校 
+高中 • 清华大学附属中学
+大学 • 南京理工大学
 
-**Bold** and _Italic_ and `Code` text
+###交换经历和领导力 EXCHANGE EXPERIENCE & LEADERSHIP
 
-[Link](url) and ![Image](src)
-```
+•	本人曾随团赴香港大学、香港中文大学和香港科技大学参观访问，并参加了“21世纪人才领导力训练营“。
+•	在中学期间曾参加了与新加坡新科技中学的交换活动，并就“如何平衡快速城市化发展与文化古迹的留存“开展了课题研究，将成果以第一作者的身份发布在苹果ibooks平台上，随后在Apple北京王府井零售店进行了汇报演讲
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###特长爱好
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wyfwyf181/wyf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本人热爱运动，擅长羽毛球、游泳等运动项目。在学习之余，我也会广泛阅读喜欢的书目，提升自我修养。
