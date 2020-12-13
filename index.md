@@ -1,10 +1,10 @@
 ## Welcome to Yifan Wang's Pages
 
 王亦凡  
-学生
-南京理工大学 
-设计艺术与传媒学院 
-工业设计专业  
+学生  
+南京理工大学   
+设计艺术与传媒学院   
+工业设计专业    
 
 
 ### 个人简介 PERSONAL PROFILES
